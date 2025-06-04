@@ -43,15 +43,5 @@
 
 <h3>🧑‍💻 Created by <span style="color: #fff;">@coderxsa</span></h3>
 
-<style>
-@keyframes glitch {
-  0% { transform: skew(0deg); }
-  20% { transform: skew(-5deg); }
-  40% { transform: skew(5deg); }
-  60% { transform: skew(-5deg); }
-  80% { transform: skew(5deg); }
-  100% { transform: skew(0deg); }
-}
-</style>
 
 </div>
